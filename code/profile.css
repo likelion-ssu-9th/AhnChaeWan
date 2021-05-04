@@ -1,0 +1,20 @@
+header {
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+}
+.num {
+    list-style-type:none;
+}
+.main {
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+}
+.contentimg {
+    width:250px;
+    height:250px;
+}
+.contentinfo {
+    list-style-type:none;
+}

@@ -1,0 +1,22 @@
+header {
+    padding-left:20%;
+    padding-right:20%;
+}
+.left_box {
+    float:left;
+}
+.faviconFrame {
+    height:20px;
+}
+.logo {
+    height:20px;
+}
+.right_box {
+    float:right;
+}
+.heart {
+    height:20px;
+}
+.myInfo {
+    height:20px;
+}

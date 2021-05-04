@@ -1,0 +1,48 @@
+.signUp_container {
+    width:350px;
+    height:400px;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    margin-top:150px;
+    margin: 35px auto 0 auto;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:50px;
+}
+.joinLetter {
+    color:#999999;
+    font-size:12pt;
+    text-align:center;
+}
+.userSignUp {
+    width:250px;
+    height:30px;
+    margin-bottom:20px;
+}
+.signupBtn {
+    color:white;
+    border:#0095f6;
+    background-color:#0095f6;
+    width:260px;
+    height:25px;
+}
+div {
+    border:1px solid #999999;
+}
+.joinInsta {
+    width:370px;
+    height:60px;
+    border: 1px solid #999999;
+    margin: 35px auto 0 auto;
+}
+.join {
+    text-align:center;
+}
+.joinBtn {
+    color:#0095f6;
+    border:white;
+    background-color:white;
+    font-size: 14px;
+    align-items:center;
+}

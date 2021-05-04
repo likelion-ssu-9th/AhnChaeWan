@@ -1,0 +1,24 @@
+.main {
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    margin-top:150px;
+    margin: 35px auto 0 auto;
+    padding-top:50px;
+    width:350px;
+    height:400px;
+}
+.feedImg {
+    width:20px;
+    height:20px;
+}
+.infoRight {
+    text-align:right;
+}
+.commentform {
+    color:gray;
+    border:white;
+    background-color:white;
+    margin:10px;
+    width:250px;
+}
